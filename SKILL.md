@@ -62,3 +62,5 @@ Render the completed deck and inspect both the full-deck overview and representa
 - layouts that are redundant, impractical, or difficult to edit
 
 Confirm that the deck opens, the requested slide ratio and layout coverage are correct, placeholders remain editable, and sample slides can be duplicated without hidden dependencies. Deliver only the final template deck and any preview the user requested.
+
+<!-- OB-S:qH0mvQ6e-uHMyLhPJGOrbw -->
